@@ -1,0 +1,2 @@
+# WPICTF2020
+Writeups for WPI CTF 2020
