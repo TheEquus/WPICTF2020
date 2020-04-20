@@ -14,18 +14,18 @@ This solution involves having Minecraft.
 So first up, upon loading the game, we see that a giant waterfall is coming down and is about to destroy the redstone circuit. Clearly, the goal is to save the circuit through any means necessary.
 
 So that's why I decided that sponge is the answer.
-![Sponge Saves The Day](/images/Sponge.png)
+![Sponge Saves The Day](./images/Sponge.png)
 
 This did require saving a backup of the world.
 What this solution did was basically use the Minecraft command `/fill x1 y1 z1 x2 y2 z2 minecraft:sponge` to replace all blocks from corner 1 to corner 2 with sponges. Although there was a minor spillage, it did not affect the circuits (thankfully).
 
 Now comes staring at the flashing lamps and figuring out what in the world is going on.
 
-![Lamps](/images/MCLamps.png)
+![Lamps](./images/MCLamps.png)
 
 Here are all the blocks with everything lit up. Seeing this reminded me of 7 Segment Display, a very common type of display on clocks. Initially, seeing the flag itself was hard, but after being reassured that the challenge is in WPI{} flag format, it became clear where the WPI actually was.
 
-![Final Order](/images/7SegOrder.png)
+![Final Order](./images/7SegOrder.png)
 
 After this revelation, the order of the flashing became clear. From there we simply extract the flag.
 
