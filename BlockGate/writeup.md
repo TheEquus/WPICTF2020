@@ -1,12 +1,14 @@
 # Block Gate
 
 > A fun Minecraft redstone challenge.
-A fun Minecraft redstone challenge.
-As this is sorta a forensics challenge it may be a good idea to backup the world folder so you don't have to download it over and over (however, there are MANY ways to solve this challenge and you do not necessarily need to make a backup).
-(Link to the world data)
-Happy hacking!
-  Abjuri5t (John F.)
-p.s. Look left immeditaly after spawning-in and see what the water does :-)
+
+>As this is sorta a forensics challenge it may be a good idea to backup the world folder so you don't have to download it over and over (however, there are MANY ways to solve this challenge and you do not necessarily need to make a backup).
+
+>Happy hacking!
+
+>  Abjuri5t (John F.)
+
+>p.s. Look left immeditaly after spawning-in and see what the water does :-)
 
 So in this challenge, we're given a zip file of a Minecraft save. The creator stated that there are **many** different solutions, even some that don't require people to have Minecraft.
 This solution involves having Minecraft.
