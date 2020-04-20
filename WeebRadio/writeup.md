@@ -15,6 +15,7 @@ Just focusing on the lengths of each switch, you can see that there are "long" s
   * Short right
   * Long left
   * Long right
+
 You can either do it manually, write a script to do it, or, in my case, have a teammate who seems to spend an entire day devoted to doing CTFs, and have them do it manually (you're a hero joseph).
 
 The end result should be something like this:
@@ -38,7 +39,7 @@ Just throwing it into a Manchester Code decoder resulted in meaningless junk... 
 
 Now we need another piece of important information from the hint, **August 14**, or more accurately, **8/14**.
 
-Just googling "8/14" and relating it to signals results in [eight-to-fourteen modulation](https://en.wikipedia.org/wiki/Eight-to-fourteen_modulation). It essentially turns 8 bit data and encodes it into 14 bits, so to decode out mysterious sequence of 1's and 0's, we simply split it into chunks of 14 bits, and then decode.
+Just googling "8/14" and relating it to signals results in [eight-to-fourteen modulation](https://en.wikipedia.org/wiki/Eight-to-fourteen_modulation). It essentially turns 8 bit data and encodes it into 14 bits, so to decode our mysterious sequence of 1's and 0's, we simply split it into chunks of 14 bits, and then decode.
 
 Splitting it gives us:
 ```
